@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="gps_network_not_enabled">GPS network not enable</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="cancel_location">Cancel</string>
+    <string name="lb_loading">Loading deals</string>
+    <string name="loading">Loading...</string>
+    <string name="press_back_again_to_exit">Press back again to exit.</string>
+    <string name="network_failure">Network failure!</string>
+    <string name="permission_read_phone_state_rationale">Access precise location permissions are needed to demonstrate access</string>
+    <string name="ok">Ok</string>
+    <string name="lb_unit">°F</string>
+    <string name="lb_relh">Humidity:</string>
+    <string name="lb_wind">Wind:</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
